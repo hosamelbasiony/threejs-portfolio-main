@@ -1,0 +1,14 @@
+services:
+  next-app:
+    container_name: vite-react-portfolio
+    build:
+      context: ./
+      dockerfile: Dockerfile
+    restart: always
+    ports:
+      - 8765:8765
+    networks:
+      - my_network
+networks:
+  my_network:
+    external: true
