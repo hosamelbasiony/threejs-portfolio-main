@@ -183,8 +183,8 @@ With innovative social media bots for highly effective client communication.`,
     tags: [
       {
         id: 1,
-        name: 'React.js',
-        path: '/assets/react.svg',
+        name: 'Nodejs.js',
+        path: '/assets/node.png',
       },
       {
         id: 2,

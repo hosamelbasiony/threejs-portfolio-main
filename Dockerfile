@@ -21,7 +21,7 @@ COPY package.json .
 COPY vite.config.js .
 
 # RUN npm install typescript
-RUN npm install vite
+RUN npm install vite -D
 
 EXPOSE 8765 
 
