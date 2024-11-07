@@ -188,16 +188,11 @@ With innovative social media bots for highly effective client communication.`,
       },
       {
         id: 2,
-        name: 'TailwindCSS',
-        path: 'assets/tailwindcss.png',
+        name: 'Sequelize',
+        path: 'assets/sequelize.png',
       },
       {
         id: 3,
-        name: 'TypeScript',
-        path: '/assets/typescript.png',
-      },
-      {
-        id: 4,
         name: 'Golang',
         path: '/assets/golang.png',
       },
