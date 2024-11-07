@@ -66,9 +66,7 @@ export const myProjects = [
     title: 'Yaseer LIS',
     desc: `Yaseer LIS is a web based laboratory information platform working as SaaS or as On-premises software.
 The core LIS application as well as the result and 'lab to lab' portals are components of an echosystem of progressive web apps.
-Patient results notification systems and patient results progressive (mobile) web app.
-Web-based portals for referring laboratories and physicians.
-With innovative social media bots for highly effective client communication.`,
+Patient results notification systems and patient results progressive (mobile) web app.`,
     subdesc:
       'Built as a unique Software-as-a-Service app with Next.js 14, Tailwind CSS, TypeScript, Framer Motion and Convex, Podcastr is designed for optimal performance and scalability.',
     href: 'https://m.youtube.com/@yaseer.lis.training',
@@ -123,7 +121,7 @@ With innovative social media bots for highly effective client communication.`,
   },
   {
     title: 'Medical Laboratory Portfolios',
-    desc: 'A website is your brand’s gateway to digital success. A strong brand presence isn’t just about visibility — it’s about making a lasting impact and resonating with your audiences. By merging design with functionality, a well-designed website can transform casual visitors into loyal customers, driving growth and solidifying your market position. The shift online has changed how businesses interact, operate, and grow. In this digital-first landscape, a website is a unique online space, extending your reach beyond local borders and a local audience.',
+    desc: 'A website is your brand’s gateway to digital success. A strong brand presence isn’t just about visibility — it’s about making a lasting impact and resonating with your audiences. By merging design with functionality, a well-designed website can transform casual visitors into loyal customers, solidifying your market position.',
     subdesc:
       'Sleek looking light and fast websites with various web stacks and tailored to addon all the necissary plugins to satisfy patient, doctor and organization result reporting and access to various test info.',
     href: 'https://m.youtube.com/@yaseer.lis.training',
@@ -164,13 +162,13 @@ With innovative social media bots for highly effective client communication.`,
     ],
   },
   {
-    title: 'Whatsapp Result Bot - Health Management System',
+    title: 'Whatsapp Result Bot - HIS',
     // desc: 'An innovative healthcare platform designed to streamline essential medical processes. It simplifies patient registration, appointment scheduling, and medical record management, providing a seamless experience for both healthcare providers and patients.',
     // subdesc:
     //   'With a focus on efficiency, CarePulse integrantes complex forms and SMS notifications, by using Next.js, Appwrite, Twillio and Sentry that enhance operational workflows.',
-    desc: 'A fully automated containerized system that automates various tidious yet essential tasks including auto-sending result reports to patients with verified results, sending reminders of delayed payments, any suspicious user activity, critical results or sampling incidents and much more. This feature is one of the most valiable and satisfying of my ERP-LIS-HELATHCARE echosystem.',
+    desc: 'A fully automated containerized system that automates various tidious yet essential tasks including auto-sending result reports to patients with verified results, sending reminders of delayed payments, any suspicious user activity, critical results or sampling incidents and much more.',
     subdesc:
-      'With nearly 3 billion users, WhatsApp has revolutionized the way we communicate with friends and family in our everyday lives. It has even gone beyond personal communication to play a significant role in professional environments. Using whatsapp as a primary way of communicatio proved to be very efficient.',
+      'With nearly 3 billion users, WhatsApp has revolutionized the way we communicate with friends and family in our everyday lives. Using whatsapp as a way of communication proved to be very efficient.',
     href: 'https://m.youtube.com/@yaseer.lis.training',
     texture: '/textures/project/project3.mp4',
     logo: '/assets/project-logo3.png',
@@ -220,9 +218,9 @@ With innovative social media bots for highly effective client communication.`,
   },
   {
     title: 'ERP - Web based customizable ERP systems',
-    desc: 'Enterprise Resource Planning (ERP) systems have become increasingly important in the modern business world, as they help companies to manage their resources, streamline their processes, and make more informed decisions. In this article, we will explore what an ERP system is, how it works, and why it is important for businesses. What is an ERP System? An ERP system is a software application that helps businesses manage their core processes, such as inventory and order management, accounting, human resources, customer relationship management, and supply chain management. An ERP system integrates all of these processes into a single, comprehensive system that allows companies to streamline their operations and gain greater visibility into their business processes.',
+    desc: 'Enterprise Resource Planning (ERP) systems have become increasingly important in the modern business world, as they help companies to manage their resources, streamline their processes, and make more informed decisions. In this article, we will explore what an ERP system is, how it works, and why it is important for businesses.',
     subdesc:
-      'A quality Enterprise resource planning (ERP) solution is critical for any business, because it is the core of a business or organization.',
+      'A quality Enterprise resource planning (ERP) solution is critical for any business, because it is the core of a business or organization. And a medical laboratory is an organization at the end.',
     href: 'https://m.youtube.com/@yaseer.lis.training',
     texture: '/textures/project/project4.mp4',
     logo: '/assets/project-logo4.png',
@@ -254,9 +252,9 @@ With innovative social media bots for highly effective client communication.`,
   },
   {
     title: 'Software Testing',
-    desc: 'Software testing is a method of determining whether the actual software product meets the expected requirements and ensuring that the software product is free of defects. It entails running software/system components through their paces using manual or automated tools to evaluate one or more properties of interest. The goal of software testing is to find errors, gaps, or missing requirements in comparison to the actual requirements. When a software development project is going on, you need to know that errors may appear in any phase of the life cycle.',
+    desc: 'Software testing is a method of determining whether the actual software product meets the expected requirements and ensuring that the software product is free of defects. It entails running software/system components through their paces using manual or automated tools to evaluate one or more properties of interest.',
     subdesc:
-      'Using a variety of testing techniques an tools we can do efficient and affordable quality software testing to virtually any web application.',
+      'Using a variety of testing techniques an tools we can do efficient and affordable quality software testing to virtually any web application, service or api.',
     href: 'https://m.youtube.com/@yaseer.lis.training',
     texture: '/textures/project/project5.mp4',
     logo: '/assets/project-logo5.png',
@@ -286,7 +284,7 @@ With innovative social media bots for highly effective client communication.`,
   },
   {
     title: 'Method Validation - Roche',
-    desc: 'Globally, all medical laboratories seeking accreditation should meet international quality standards to perform certain specific tests. Quality management program provides disciplines targeted to ensure that quality standards have been implemented by a laboratory in order to generate correct results. The hallmark of the accreditation process is method verification and quality assurance. Before introducing a new method in your laboratory, it is important to assess certain performance characteristics that reflect the concept of method verification.',
+    desc: 'Globally, all medical laboratories seeking accreditation should meet international quality standards to perform certain specific tests. Quality management program provides disciplines targeted to ensure that quality standards have been implemented by a laboratory in order to generate correct results.',
     subdesc:
       'Built with Next.js 14, Clerk, Postgres and Neon, Roche Method Validation combines cutting-edge technology with a user-centric approach.',
     href: 'https://m.youtube.com/@yaseer.lis.training',
@@ -333,7 +331,7 @@ With innovative social media bots for highly effective client communication.`,
   },
   {
     title: 'Personal portfolios',
-    desc: 'A portfolio is a compilation of work samples and professional documentation that serves as evidence of your skills and accomplishments. Many people choose to create and house their portfolio online, though some may still prefer a physical collection. Portfolios are a great way to demonstrate the competencies and accomplishments you would list on a resume or talk about in an interview – they allow you to show, not just tell. Your portfolio helps you showcase your proven work to potential employers. It presents evidence of your relevant skills and abilities.',
+    desc: 'A portfolio is a compilation of work samples and professional documentation that serves as evidence of your skills and accomplishments. Many people choose to create and house their portfolio online, though some may still prefer a physical collection. Portfolios are a great way to demonstrate the competencies and accomplishments you would list on a resume or talk about.',
     subdesc:
       'Built with React.js 19, Tailwind css and Three.js, This portfolio template can open up a lot of oppotunities.',
     href: 'https://m.youtube.com/@yaseer.lis.training',
