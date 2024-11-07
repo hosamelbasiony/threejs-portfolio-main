@@ -203,6 +203,11 @@ With innovative social media bots for highly effective client communication.`,
       },
       {
         id: 5,
+        name: 'Docker',
+        path: '/assets/docker.png',
+      },
+      {
+        id: 6,
         name: 'Whatsapp',
         path: '/assets/whatsapp.png',
       },
